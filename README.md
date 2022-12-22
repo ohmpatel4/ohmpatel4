@@ -4,7 +4,7 @@ Basically my tinder profile:
 
   2nd year Computer Engineering at University of Manitoba
 
-  Make sure you change the variable names when u copy codes ;)
+  Make sure you change the variable names when u copy my codes ;)
 
 ---
 
