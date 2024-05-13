@@ -2,7 +2,7 @@ Basically my tinder profile:
 
   Ohm Patel
 
-  2nd year Computer Engineering at University of Manitoba
+  3nd year Computer Engineering at University of Manitoba
 
   Make sure you change the variable names when u copy my codes ;)
 
