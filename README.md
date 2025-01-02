@@ -1,13 +1,7 @@
-Basically my tinder profile:
+Ohm Patel
 
-  Ohm Patel
+4th year Computer Engineering Student at the University of Manitoba
 
-  3rd year Computer Engineering at University of Manitoba
-
-  Make sure you change the variable names when u copy my codes ;)
-
----
-
-Premium links:
+Explore my repositories that include projects in various topics.
 
 https://www.linkedin.com/in/ohmpatel4
